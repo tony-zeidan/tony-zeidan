@@ -6,7 +6,7 @@ I developed my skills at Carleton University during my five-year Software Engine
 I love to make programs using different programming languages and doing LeetCode problems.
 I seek to use my technical skills and experience to advance within the field of Software Development.
 
-<a href="https://www.tonyabouzeidan.com/" alt="Linkedin">
+<a href="https://www.tonyzeidan.com/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-My%20Page-black?style=for-the-badge&logo=netlify&logoColor=#00C7B7" /></a>
 
  <a href="mailto:tony.azp25@gmail.com" alt="Gmail">
@@ -17,7 +17,7 @@ I seek to use my technical skills and experience to advance within the field of 
 
 <p align="center">
 <div align="left" style="display: inline_block">
-  <a href="https://github.com/EnzoMaitan">
+  <a href="https://github.com/tony-zeidan">
   <img height="142em" src="https://github-readme-stats.vercel.app/api?username=tony-zeidan&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="142em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tony-zeidan&layout=compact&langs_count=7&theme=radical"/>
 </div>
