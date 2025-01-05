@@ -1,9 +1,9 @@
 # Tony Zeidan
 Hi there! :smiley:
 
-My name is Tony and I am an aspiring Software Engineer! 
-I developed my skills at Carleton University during my five-year Software Engineering degree. :man_student:
-I love to make programs using different programming languages and doing LeetCode problems.
+My name is Tony and I a Software Developer! Currently I work as a Web Developer at Canadian Bank Note Company, Limited.
+I developed my skills at Carleton University during my time in the Software Engineering program.
+I love to make programs using different programming languages, learning new frameworks, and doing LeetCode problems. 
 I seek to use my technical skills and experience to advance within the field of Software Development.
 
 <a href="https://www.tonyzeidan.com/" alt="Linkedin">
@@ -23,7 +23,7 @@ I seek to use my technical skills and experience to advance within the field of 
 </div>
 
 
-<br>
+<br/>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&style=for-the-badge)&nbsp;
@@ -35,6 +35,12 @@ I seek to use my technical skills and experience to advance within the field of 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-green?style=for-the-badge&logo=php&color=8BCB87)&nbsp;
-<br>
+![Vaadin](https://img.shields.io/badge/-Vaadin-gray?style=for-the-badge&logo=vaadin&color=D3D3D3)&nbsp;
+
+<br/>
+
 ![Git](https://img.shields.io/badge/Git-202020?style=for-the-badge&logo=git&logoColor=db3e00)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0e0e0e?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![JetBrains](https://img.shields.io/badge/JetBrains-0e0e0e?style=for-the-badge&logo=jetbrains&logoColor=007ACC)&nbsp;
+
+<br/>
